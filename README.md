@@ -1,5 +1,8 @@
-# generator-gulp-project-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+# Generator-Gulp-Project-Boilerplate [![NPM version][npm-image]][npm-url]
+
+>
+
+A Yeoman generator that creates a minimal Gulp and Sass front-end boilerplate to save time on workflow.
 
 ## Installation
 
@@ -16,17 +19,9 @@ Then generate your new project:
 yo gulp-project-boilerplate
 ```
 
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
-
 ## License
 
 ISC © [mukiturrahman]()
-
 
 [npm-image]: https://badge.fury.io/js/generator-gulp-project-boilerplate.svg
 [npm-url]: https://npmjs.org/package/generator-gulp-project-boilerplate
